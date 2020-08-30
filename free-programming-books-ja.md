@@ -647,6 +647,7 @@
 
 * [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/) - basarat, yohamta(翻訳)
 * [TypeScriptの為のクリーンコード](https://msakamaki.github.io/clean-code-typescript/) - labs42io, 酒巻 瑞穂(翻訳)
+* [サバイバルTypeScript 〜実務で使うなら最低限ここだけはおさえておきたいTypeScript入門〜](https://book.yyts.org/) - suin
 
 
 ### VBA
